@@ -4,3 +4,9 @@
     "password": "Hakimajihijijjirnjd",
     "method": "chacha20-ietf-poly1305"
 }
+{
+    "server": "91.108.244.215",
+    "server_port": 1080,
+    "password": "Hakimajihijijjirnjd",
+    "method": "chacha20-ietf-poly1305"
+}
