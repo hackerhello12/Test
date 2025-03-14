@@ -6,7 +6,6 @@
     "method": "chacha20-ietf-poly1305"
   }
 ]
-
 [
   {
     "server": "45.84.225.198",
