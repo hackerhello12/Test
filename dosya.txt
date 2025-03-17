@@ -1,8 +1,8 @@
 [
   {
-    "server": "3.112.28.59",
-    "server_port": 42342,
-    "password": "F6ODQ19joWb6ztUEWLI2EQ",
+    "server": "5.35.83.232",
+    "server_port": 1080,
+    "password": "0mNrmM8_VQKFtGvP2TRJ-A",
     "method": "chacha20-ietf-poly1305"
   }
 ]
