@@ -1,8 +1,26 @@
 [
   {
-    "server": "103.88.242.136",
-    "server_port": 1080,
-    "password": "fqE-vnNOsB9YLyG8q1v4Tw",
+    "server": "148.113.201.110",
+    "server_port": 11105,
+    "password": "1bbf6fb9b7181faf",
+    "method": "chacha20-ietf-poly1305"
+  },
+  {
+    "server": "148.113.201.160",
+    "server_port": 11106,
+    "password": "b15f37ee6b5286cb",
+    "method": "chacha20-ietf-poly1305"
+  },
+  {
+    "server": "16.24.125.8",
+    "server_port": 443,
+    "password": "Bog0ELmMM9DSxDdQ",
+    "method": "chacha20-ietf-poly1305"
+  },
+  {
+    "server": "131.145.88.200",
+    "server_port": 443,
+    "password": "u17T3BvpYaaiuW2c",
     "method": "chacha20-ietf-poly1305"
   }
 ]
